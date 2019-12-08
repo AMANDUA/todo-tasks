@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About this project
+
+This is a small react + redux app to manages tasks with status
+
+**Coverage**
+1. add new task
+2. Populate in table
+3. mark status as done
+
+**Need to Do**
+1. Editing task
+
 ## Available Scripts
 
 In the project directory, you can run:
